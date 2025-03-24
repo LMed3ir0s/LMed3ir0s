@@ -4,10 +4,10 @@
 
 ## 🌟 Informações Públicas
 
-Meu nome é **[Lucas]** (também conhecido como **[Medeiros]**). Atualmente, moro em **[Samambaia - DF]** e meu objetivo é aprender e evoluir continuamente, experimentando diversas tecnologias e abordagens conquistando sonhos e metas. 🚀
+Meu nome é **Lucas** (também conhecido como **Medeiros**). Atualmente, moro em **Samambaia - DF** e meu objetivo é aprender e evoluir continuamente, experimentando diversas tecnologias e abordagens conquistando sonhos e metas. 🚀
 
 <!--No meu tempo livre, gosto de pescar, jogos online, ficar com minha família e participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos.-->
-  Desde **[2025]** estou me dedicando ao meu crescimento na comunidade tecnológica, participando de projetos e iniciativas que ampliam minhas habilidades e conhecimentos. 🤝
+  Desde **2025** estou me dedicando ao meu crescimento na comunidade tecnológica, participando de projetos e iniciativas que ampliam minhas habilidades e conhecimentos. 🤝
 
 <!-- Também realizo transmissões ao vivo de codificação 🎥, explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público". Além disso, escrevo artigos e produzo vídeos, experiências que têm sido transformadoras na minha trajetória como desenvolvedor(a). ✍️📹 -->
 ## 📝 Informações Detalhadas
