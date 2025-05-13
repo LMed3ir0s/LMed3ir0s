@@ -1,49 +1,65 @@
-# 👋 Olá, visitante!
+## 👋 Seja bem-vindo Excelentíssimo(a) Visitante!
 
-😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
-## 🌟 Informações Públicas
 
-Meu nome é **Lucas** (também conhecido como **Medeiros**). Atualmente, moro em **Samambaia - DF** e meu objetivo é aprender e evoluir continuamente, experimentando diversas tecnologias e abordagens conquistando sonhos e metas. 🚀
+### <center>![Saudacao](HelloWorld/HelloWorld.gif)</center>
 
-<!--No meu tempo livre, gosto de pescar, jogos online, ficar com minha família e participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos.-->
-  Desde **2025** estou me dedicando ao meu crescimento na comunidade tecnológica, participando de projetos e iniciativas que ampliam minhas habilidades e conhecimentos. 🤝
+## 👾 def SobreMim(...):
 
-<!-- Também realizo transmissões ao vivo de codificação 🎥, explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público". Além disso, escrevo artigos e produzo vídeos, experiências que têm sido transformadoras na minha trajetória como desenvolvedor(a). ✍️📹 -->
-## 📝 Informações Detalhadas
+```ruby
+Atualmente estou realizando minha Pós-Graduação em Desenvolvimento Orientado a Objetos com Java.
 
+Sou Bacharel em Engenharia Civil atuei ao longo de 5 anos na área principalmente com gestão,
+planejamento, gerenciamento e fiscalização de obras de alto padrão.
+
+Sempre tive o coração voltado para área tech, desde criança aprendi a fazer as matunenções e upgrades do meu pc
+e mesmo atuando na área da construção civil mantive esse entusiamo e continuei mexendo no meu tempo livre como hobby,
+por fim me decidi fazer a transição de carreira para área e desde então estou apaixonado pela profissão!
+```
 <!-- Coloque suas informações pessoais que você deseja compartilhar -->
+![Progress](https://img.shields.io/badge/progresso%2C_-n%C3%A3o_perfei%C3%A7%C3%A3o-purple?style=for-the-badge) 
 
-- 👤 **Nome:** [Lucas Medeiros Ramos]   
-- 🎂 **Idade:** [32 anos]   
-- 📍 **Localização:** [Samambaia - DF, Brasil]   
-- 💻 **Stack:** [Python, Selenium WebDriver]   
-- 📚 **Aprendizado Atual:** [HTML, CSS, Django, SQLite, MySQL, MongoDB, aprimorando lógica de programação e refinando códigos]   
-- 🎓 **Formação:** [Bacharel em Engenharia Civil]    
 
-## 😎 Curiosidades sobre Mim
 
-<!-- Coloque alguma curiosidade pra mostrar que você não é só código -->
+## 👨‍💻 def MeuStack(...):
+#### Atual:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-- 🏞️ Sou apaixonado por pescaria, jogos online e animes, e ao longo dos anos, explorei diversas modalidades dessas paixões. 
-- 💡 Comecei a programar em **[2025]** e, desde então, venho me desafiando e aprendendo coisas novas.   
-- 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.   
-- 🌐 Tenho me aprofundado no desenvolvimento com Python, explorando também tecnologias complementares como FastAPI, MongoDB, testes com Selenium WebDriver, além de bancos de dados (SQLite, MySQL) e tecnologias web (HTML, CSS). Isso tem enriquecido minha visão sobre sistemas e aplicações.   
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+#### Em Desenvolvimento:  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+
+
+
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 	![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
+## 🔍  Me encontre no LinkedIn:
+
+[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/lucas-medeiros-ramos-1573741bb/)
+
+
+
+
+
+
+
 
 ---
-
-
-<!--
-**LMed3ir0s/LMed3ir0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
