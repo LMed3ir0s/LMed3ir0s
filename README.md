@@ -12,9 +12,6 @@ Atualmente estou realizando minha Pós-Graduação em Desenvolvimento Orientado 
 Sou Bacharel em Engenharia Civil atuei ao longo de 5 anos na área principalmente com gestão,
 planejamento, gerenciamento e fiscalização de obras de alto padrão.
 
-Sempre tive o coração voltado para área tech, desde criança aprendi a fazer as matunenções e upgrades do meu pc
-e mesmo atuando na área da construção civil mantive esse entusiamo e continuei mexendo no meu tempo livre como hobby,
-por fim me decidi fazer a transição de carreira para área e desde então estou apaixonado pela profissão!
 ```
 <!-- Coloque suas informações pessoais que você deseja compartilhar -->
 ![Progress](https://img.shields.io/badge/progresso%2C_-n%C3%A3o_perfei%C3%A7%C3%A3o-purple?style=for-the-badge) 
