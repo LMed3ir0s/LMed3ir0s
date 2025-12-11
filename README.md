@@ -23,7 +23,7 @@ planejamento, gerenciamento e fiscalização de obras de alto padrão.
 
 ### 👨‍💻 interface CurrentStack {
 
-##### Atual (uso frequente em projetos):
+#### Atual (uso frequente em projetos):
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -44,7 +44,7 @@ planejamento, gerenciamento e fiscalização de obras de alto padrão.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-##### Explorando / em desenvolvimento:
+#### Explorando / em desenvolvimento:
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo Server](https://img.shields.io/badge/Apollo%20Server-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
