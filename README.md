@@ -4,23 +4,25 @@
 
 ### <center>![Saudacao](HelloWorld/HelloWorld.gif)</center>
 
-### 👾 def SobreMim(...):
+### 👾 const sobreMim = () => {
 
 ```ruby
 Atualmente estou na minha segunda graduação em Engenharia de Software e cursando Pós-graduação
 em Desenvolvimento Orientado a Objetos com Java, sempre buscando melhorar arquitetura,
 boas práticas e qualidade de código.
 
-Sou Bacharel em Engenharia Civil atuei ao longo de 5 anos na área principalmente com gestão,
+Sou bacharel em Engenharia Civil e atuei ao longo de 5 anos na área, principalmente com gestão,
 planejamento, gerenciamento e fiscalização de obras de alto padrão.
 
 ```
 <!-- Coloque suas informações pessoais que você deseja compartilhar -->
 ![Progress](https://img.shields.io/badge/progresso%2C_-n%C3%A3o_perfei%C3%A7%C3%A3o-purple?style=for-the-badge) 
 
+};
 
 
-### 👨‍💻 def MeuStack(...):
+
+### 👨‍💻 interface MeuStack {
 
 #### Atual (uso frequente em projetos):
 
@@ -56,6 +58,8 @@ planejamento, gerenciamento e fiscalização de obras de alto padrão.
 ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
 
+// atributos de um dev curioso em constante evolução!
+}
 
 
 ### 🔍 Onde me encontrar
