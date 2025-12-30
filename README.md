@@ -38,7 +38,7 @@ planejamento, gerenciamento e fiscalização de obras de alto padrão.
 
 }
 
-### 📂 data.projects = [ ... ]
+### 📂 const data.projects = [ ... ]
 
 👉 **[Veja todos os projetos](https://github.com/LMed3ir0s/Projects)**
 
