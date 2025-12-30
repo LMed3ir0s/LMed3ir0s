@@ -1,10 +1,6 @@
 ## 👋 Seja bem-vindo Excelentíssimo(a) Visitante!
 
-
-
-### <center>![Saudacao](HelloWorld/HelloWorld.gif)</center>
-
-##
+<!-- <center>![Saudacao](HelloWorld/HelloWorld.gif)</center> -->
 
 ### 👾 const aboutMe = ( ) => {
 
@@ -41,6 +37,10 @@ planejamento, gerenciamento e fiscalização de obras de alto padrão.
 ```
 
 }
+
+### 📂 data.projects = [ ... ]
+
+👉 **[Veja todos os projetos](https://github.com/LMed3ir0s/Projects)**
 
 ##
 
