@@ -14,7 +14,9 @@ Possuo sólida experiência em arquitetura de sistemas, padrões de projeto e bo
 
 Minha trajetória anterior na Engenharia Civil contribuiu para desenvolver capacidade analítica, visão sistêmica e resolução estruturada de problemas, habilidades que hoje aplico diretamente no desenvolvimento de software.
 
-Atuo no planejamento e implementação de APIs, pipelines ETL, mensageria assíncrona, integrações entre sistemas e aplicações distribuídas, incluindo deploy e containerização de ambientes cloud. Possuo experiência complementar com frontend, mobile, testes automatizados e arquitetura orientada a serviços.
+Atuo no planejamento e implementação de APIs, pipelines ETL, mensageria assíncrona, integrações entre sistemas e aplicações distribuídas, incluindo deploy e containerização de ambientes cloud.
+
+Possuo experiência complementar com frontend, mobile, testes automatizados e arquitetura orientada a serviços.
 
 ```
 <!-- Coloque suas informações pessoais que você deseja compartilhar -->
