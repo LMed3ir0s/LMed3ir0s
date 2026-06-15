@@ -8,7 +8,9 @@
 
 Desenvolvedor Backend especializado em APIs escaláveis, microsserviços, automação e engenharia de dados.
 
-Pós-graduado em Desenvolvimento Orientado a Objetos com Java e atualmente cursando minha segunda graduação em Engenharia de Software. Possuo sólida experiência em arquitetura de sistemas, padrões de projeto e boas práticas de desenvolvimento, com foco na construção de soluções distribuídas, resilientes e de alta performance.
+Pós-graduado em Desenvolvimento Orientado a Objetos com Java e atualmente cursando minha segunda graduação em Engenharia de Software.
+
+Possuo sólida experiência em arquitetura de sistemas, padrões de projeto e boas práticas de desenvolvimento, com foco na construção de soluções distribuídas, resilientes e de alta performance.
 
 Minha trajetória anterior na Engenharia Civil contribuiu para desenvolver capacidade analítica, visão sistêmica e resolução estruturada de problemas, habilidades que hoje aplico diretamente no desenvolvimento de software.
 
