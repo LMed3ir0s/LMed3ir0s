@@ -5,12 +5,14 @@
 ### 👾 const aboutMe = ( ) => {
 
 ```ruby
-Atualmente estou na minha segunda graduação em Engenharia de Software e cursando Pós-graduação
-em Desenvolvimento Orientado a Objetos com Java, sempre buscando melhorar arquitetura,
-boas práticas e qualidade de código.
 
-Sou bacharel em Engenharia Civil e atuei ao longo de 5 anos na área, principalmente com gestão,
-planejamento, gerenciamento e fiscalização de obras de alto padrão.
+Desenvolvedor Backend especializado em APIs escaláveis, microsserviços, automação e engenharia de dados.
+
+Pós-graduado em Desenvolvimento Orientado a Objetos com Java e atualmente cursando minha segunda graduação em Engenharia de Software. Possuo sólida experiência em arquitetura de sistemas, padrões de projeto e boas práticas de desenvolvimento, com foco na construção de soluções distribuídas, resilientes e de alta performance.
+
+Minha trajetória anterior na Engenharia Civil contribuiu para desenvolver capacidade analítica, visão sistêmica e resolução estruturada de problemas, habilidades que hoje aplico diretamente no desenvolvimento de software.
+
+Atuo no planejamento e implementação de APIs, pipelines ETL, mensageria assíncrona, integrações entre sistemas e aplicações distribuídas, incluindo deploy e containerização de ambientes cloud. Possuo experiência complementar com frontend, mobile, testes automatizados e arquitetura orientada a serviços.
 
 ```
 <!-- Coloque suas informações pessoais que você deseja compartilhar -->
@@ -24,16 +26,17 @@ planejamento, gerenciamento e fiscalização de obras de alto padrão.
 ```ruby
 #### Atual (uso frequente em projetos)
 
-**Backend:** TypeScript, Node.js, NestJS, Java (Spring), Python (FastAPI), Go, JWT  
+**Backend:** TypeScript, Node.js, NestJS, Java (Spring), Python (FastAPI, Django), Go, JWT  
 **Bancos de dados:** PostgreSQL, MongoDB  
-**Infra:** Docker  
-**Frontend:** React, TailwindCSS  
+**Infra:** Docker, Docker Compose
+**Frontend:** React, TailwindCSS, HTML5, CSS3  
+**Mobile:** Flutter, React Native
+**Cloud (AWS):** EC2, VPC, Route 53, S3, ECS, CloudWatch, IAM, CloudFront, WAF 
 
 #### Explorando / em desenvolvimento
 
-**APIs & Graph:** GraphQL, Apollo Server  
-**Cloud (AWS):** AWS, S3, EC2, RDS, Lambda, CloudWatch  
-**Outros:** Stripe
+**APIs & Graph:** GraphQL, Apollo Server
+**Outros:** Stripe, Ollama/Llama.cpp
 ```
 
 }
